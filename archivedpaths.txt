@@ -1,4 +1,4 @@
-[ARCHIVED] 240122mf:
+[ARCHIVED] 240122mf
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/archived%20timetables/240122mf-public.csv
-[ARCHIVED] 240203sa:
+[ARCHIVED] 240203sa
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/archived%20timetables/240203sa-public.csv
