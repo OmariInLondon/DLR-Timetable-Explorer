@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DLR Timetable Explorer V4</title>
+    <title>DLR Timetable Explorer V5</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -689,17 +689,19 @@
             document.getElementById('detailsOutput').innerHTML = tableHTML;
         }
 
-        function updateURLHash() {
-            const timetable = document.getElementById('daySelector').value;
-            const run = currentRunData ? document.getElementById('currentRun').textContent.split(' ')[1] : null;
-            const trip = selectedTrip ? selectedTrip.tripNumber : null;
-            
-            let hash = `timetable=${timetable}`;
-            if (run) hash += `&run=${run}`;
-            if (showingAllTimings) hash += '&showall';
-            if (trip) hash += `&trip=${trip}`;
-            window.location.hash = hash;
-        }
+		function updateURLHash() {
+			const timetable = document.getElementById('daySelector').value;
+			const run = currentRunData ? document.getElementById('currentRun').textContent.split(' ')[1] : null;
+			const trip = selectedTrip ? selectedTrip.tripNumber : null;
+			
+			let hash = `timetable=${timetable}`;
+			if (run) hash += `&run=${run}`;
+			if (showingAllTimings) hash += '&showall';
+			if (trip) hash += `&trip=${trip}`;
+
+			// Replace current history entry instead of creating a new one
+			window.history.replaceState(null, '', `#${hash}`);
+		}
 
         function clearRunSelection() {
             currentRunData = null;
