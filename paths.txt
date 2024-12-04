@@ -4,5 +4,5 @@ Saturdays
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/241109sa-public.csv
 Sundays
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/241110su-public.csv
-Old Sunday ttbl
-https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/oldsunny.csv
+240203sa
+https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/archived%20timetables/240203sa-public.csv
