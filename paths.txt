@@ -5,4 +5,4 @@ https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/head
 Sundays
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/241110su-public.csv
 240203sa
-https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/archived%20timetables/240203sa-public.csv
+https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/240203sa-public.csv

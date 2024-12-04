@@ -1,4 +1,4 @@
 [ARCHIVED] 240122mf
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/archived%20timetables/240122mf-public.csv
 [ARCHIVED] Sunday ttbl
-https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/oldsunny.csv
+https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/archived%20timetables/oldsunny.csv
