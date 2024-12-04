@@ -1,8 +1,8 @@
-Weekdays:
+Weekdays
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/241104mf-public.csv
-Saturdays:
+Saturdays
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/241109sa-public.csv
-Sundays:
+Sundays
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/241110su-public.csv
-Old Sunday ttbl:
+Old Sunday ttbl
 https://raw.githubusercontent.com/OmariInLondon/DLR-Timetable-Explorer/refs/heads/main/active%20timetables/oldsunny.csv
