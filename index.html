@@ -240,18 +240,18 @@
 			1: { name: 'Closed', color: '#F44336', suffix: 'that the DLR is Closed.' },
 			2: { name: 'Suspended', color: '#ff0000', suffix: 'that the DLR is Suspended.' },
 			3: { name: 'Part Suspended', color: '#ff0000', suffix: 'that the DLR is Part Suspended.' },
-			4: { name: 'Planned Closure', color: '#f9ff00', suffix: 'a Planned Closure on the DLR.' },
+			10: { name: 'Planned Closure', color: '#f9ff00', suffix: 'a Planned Closure on the DLR.' },
 			5: { name: 'Part Closure', color: '#f9ff00', suffix: 'a Part Closure on the DLR.' },
-			10: { name: 'Severe Delays', color: '#ff0000', suffix: 'Severe Delays on the DLR.' },
+			6: { name: 'Severe Delays', color: '#ff0000', suffix: 'Severe Delays on the DLR.' },
 			7: { name: 'Reduced Service', color: '#f9ff00', suffix: 'a Reduced Service on the DLR.' },
 			9: { name: 'Minor Delays', color: '#ff9b00', suffix: 'Minor Delays on the DLR.' },
-			6: { name: 'Good Service', color: '#4CAF50', suffix: 'that the DLR is operating with a Good Service.' },
+			4: { name: 'Good Service', color: '#4CAF50', suffix: 'that the DLR is operating with a Good Service.' },
 			11: { name: 'Part Closed', color: '#f9ff00', suffix: 'that the DLR is Part Closed.' },
 			16: { name: 'Not Running', color: '#ff0000', suffix: 'that the DLR is Not Running.' },
 			20: { name: 'No Service', color: '#ff0000', suffix: 'No Service on the DLR.' }
 		};
 
-		const WARNING_TRIGGERS = [0, 2, 3, 4, 5, 10, 7, 8, 9, 11];
+		const WARNING_TRIGGERS = [0, 2, 3, 10, 5, 6, 7, 8, 9, 11];
 
 		async function checkTfLStatus() {
 			try {
