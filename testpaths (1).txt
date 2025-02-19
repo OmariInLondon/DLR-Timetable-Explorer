@@ -1,0 +1,9 @@
+Name: WeekdaysTEST
+Applies: 'Monday','Tuesday','Wednesday','Thursday','Friday'
+URL: https://raw.githubusercontent.com/dlrttbl/dlrttbl.github.io/refs/heads/main/active%20timetables/241104mf-public.csv
+Name: Saturdays
+Applies: 'Saturday'
+URL:https://raw.githubusercontent.com/dlrttbl/dlrttbl.github.io/refs/heads/main/active%20timetables/241109sa-public.csv
+Name: DateTEST
+Applies: '2025-02-16/2025-02-22'
+URL: https://raw.githubusercontent.com/dlrttbl/dlrttbl.github.io/refs/heads/main/active%20timetables/241110su-public.csv
