@@ -1,8 +1,8 @@
 Name: WeekdaysTEST
-Applies: 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'
+Applies: 'Monday', 'Tuesday', 'Thursday', 'Friday'
 URL: https://raw.githubusercontent.com/dlrttbl/dlrttbl.github.io/refs/heads/main/active%20timetables/241104mf-public.csv
 Name: Saturdays
-Applies: 'Saturday'
+Applies: 'Saturday', 'Wednesday'
 URL:https://raw.githubusercontent.com/dlrttbl/dlrttbl.github.io/refs/heads/main/active%20timetables/241109sa-public.csv
 Name: Sundays
 Applies: 'Sunday'
