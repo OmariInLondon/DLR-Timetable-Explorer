@@ -1,4 +1,4 @@
-Name: Weekdays
+Name: WeekdaysTEST
 Applies: 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'
 URL: https://raw.githubusercontent.com/dlrttbl/dlrttbl.github.io/refs/heads/main/active%20timetables/241104mf-public.csv
 Name: Saturdays
